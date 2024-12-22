@@ -27,7 +27,7 @@ public class RestApiController {
 	{
 		UserData userData = new UserData();
 		userData.setId("1");
-		userData.setUserName("darshanGPawar@geek");
+		userData.setUserName("raghu");
 		userData.setData("Data send by Rest-API");
 
 		return userData;
